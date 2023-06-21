@@ -1,12 +1,3 @@
-pip install torch torchvision
-pip install streamlit
-pip install pillow
-pip install qrcode
-pip install diffusers
-pip install transformers
-pip install accelerate
-pip install xformers
-
 
 import torch
 import streamlit as st
